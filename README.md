@@ -10,7 +10,7 @@ Example Promethean TV Overlay web application that allows a user realtime manage
 
 Anyone with this link can modify the contents of the spreadsheet.  *Please do not modify the format, or naming.
 
-https://docs.google.com/spreadsheets/d/1xedBAJoSWRfZjT2hDUlTFjC9Yf-dm2Q3_8B6BFcLyBk/edit#gid=0
+** ASK FOR LINK ***
 
 ** Google App Scripts **
 A set of App Scripts are added to the google sheet above.
